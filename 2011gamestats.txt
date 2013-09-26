@@ -1,0 +1,256 @@
+2049,2011-09-08,New Orleans Saints,7,10,10,7,Green Bay Packers,21,7,7,7,Lambeau Field,7:40pm,grass ,68 degrees relative humidity 67% wind 5 mph,Green Bay Packers-5.0,48.0,Clete Blakeman,1,0
+2050,2011-09-11,Cincinnati Bengals,10,3,0,14,Cleveland Browns,0,14,3,0,Cleveland Browns Stadium,1:06pm,grass ,Cleveland Browns-7.0,36.5(over),Bill Leavy,0,1
+2051,2011-09-11,Carolina Panthers,7,7,7,0,Arizona Cardinals,7,0,7,14,University of Phoenix Stadium (retractable roof),1:15pm,grass ,Arizona Cardinals-7.0,37.5(over),Carl Cheffers,1,1
+2052,2011-09-11,Philadelphia Eagles,14,3,7,7,St. Louis Rams,7,3,3,0,Edward Jones Dome (dome),12:00pm,astroplay,Philadelphia Eagles-4.0,44.5(under),Gene Steratore,1,1
+2053,2011-09-11,Seattle Seahawks,0,0,7,10,San Francisco 49ers,0,16,0,17,Candlestick Park,1:22pm,grass ,68 degrees relative humidity 63% wind 1 mph,San Francisco 49ers-6.0,38.0,Jeff Triplette,3,0
+2054,2011-09-11,New York Giants,7,7,0,0,Washington Redskins,0,14,7,7,FedEx Field,4:23pm,grass ,87 degrees relative humidity 38% wind 5 mph,New York Giants-2.0,40.0,Ron Winter,1,1
+2055,2011-09-11,Dallas Cowboys,7,3,7,7,New York Jets,0,7,3,17,MetLife Stadium,8:33pm,fieldturf ,70 degrees relative humidity 89% wind 6 mph,New York Jets-6.0,41.0,Alberto Riveron,3,2
+2056,2011-09-11,Minnesota Vikings,7,10,0,0,San Diego Chargers,7,0,7,10,Qualcomm Stadium,1:20pm,grass ,74 degrees relative humidity 52% wind 7 mph,San Diego Chargers-8.5,43.0,Terry McAulay,1,2
+2057,2011-09-11,Atlanta Falcons,3,0,3,6,Chicago Bears,10,6,14,0,Soldier Field (II),12:06pm,grass ,76 degrees relative humidity 57% wind 7 mph,Atlanta Falcons-1.5,41.0,Ed Hochuli,3,1
+2058,2011-09-11,Indianapolis Colts,0,0,0,7,Houston Texans,17,17,0,0,Reliant Stadium (retractable roof),12:05pm,grass ,84 degrees wind 4 mph,Houston Texans-9.0,44.0,Walt Coleman,2,3
+2059,2011-09-11,Pittsburgh Steelers,0,7,0,0,Baltimore Ravens,14,7,11,3,M&T Bank Stadium,1:05pm,sportturf,75 degrees relative humidity 71% wind 2 mph,Baltimore Ravens-1.5,37.0,Tony Corrente,7,0
+2060,2011-09-11,Buffalo Bills,14,6,14,7,Kansas City Chiefs,0,7,0,0,Arrowhead Stadium,12:06pm,grass ,75 degrees relative humidity 65% no wind,Kansas City Chiefs-3.5,40.0,Scott Green,1,3
+2061,2011-09-11,Detroit Lions,6,14,7,0,Tampa Bay Buccaneers,10,3,0,7,Raymond James Stadium,1:06pm,grass ,86 degrees relative humidity 55% wind 6 mph,Tampa Bay Buccaneers-1.5,43.5,Walt Anderson,1,2
+2062,2011-09-11,Tennessee Titans,0,0,7,7,Jacksonville Jaguars,7,3,3,3,EverBank Field,1:05pm,grass ,87 degrees relative humidity 52% wind 5 mph,Tennessee Titans-1.5,38.0,Mike Carey,1,1
+2063,2011-09-12,New England Patriots,7,7,14,10,Miami Dolphins,7,0,10,7,Sun Life Stadium,7:13pm,grass ,82 degrees relative humidity 73% wind 1 mph,New England Patriots-7.5,47.0,Peter Morelli,1,1
+2064,2011-09-12,Oakland Raiders,0,16,0,7,Denver Broncos,3,0,10,7,Sports Authority Field at Mile,8:26pm,grass ,75 degrees relative humidity 29% wind 6 mph,Denver Broncos-3.0,42.0,Jerome Boger,1,3
+2065,2011-09-18,Oakland Raiders,0,21,0,14,Buffalo Bills,0,3,14,21,Ralph Wilson Stadium,1:03pm,a_turf,65 degrees relative humidity 47% wind 5 mph,Buffalo Bills-4.0,41.0,Mike Carey,2,1
+2066,2011-09-18,Dallas Cowboys,0,7,7,10,27,San Francisco 49ers(1-1-0),0,14,7,Candlestick Park,1:05pm,grass ,70 degrees relative humidity 60% wind 3 mph,Dallas Cowboys-3.0,41.5,Ron Winter,2,1
+2067,2011-09-18,Philadelphia Eagles,0,10,21,0,Atlanta Falcons,7,7,7,14,Georgia Dome (dome),8:30pm,fieldturf ,Philadelphia Eagles-2.5,49.5(over),Carl Cheffers,3,2
+2068,2011-09-18,Seattle Seahawks,0,0,0,0,Pittsburgh Steelers,7,10,7,0,Heinz Field,1:02pm,grass ,63 degrees relative humidity 59% wind 1 mph,Pittsburgh Steelers-14.0,40.0,Bill Leavy,0,0
+2069,2011-09-18,Houston Texans,6,10,0,7,Miami Dolphins,3,0,7,3,Sun Life Stadium,4:15pm,grass ,87 degrees relative humidity 59% wind 1 mph,Houston Texans-3.0,47.5,John Parry,0,2
+2070,2011-09-18,San Diego Chargers,7,0,0,14,New England Patriots,7,13,0,15,Gillette Stadium,4:15pm,fieldturf ,New England Patriots-7.0,53.5(over),Walt Anderson,4,0
+2071,2011-09-18,Green Bay Packers,0,7,16,7,Carolina Panthers,10,3,0,10,Bank of America Stadium,1:02pm,grass ,64 degrees relative humidity 67% wind 1 mph,Green Bay Packers-11.0,45.0,Alberto Riveron,1,4
+2072,2011-09-18,Chicago Bears,7,3,3,0,New Orleans Saints,3,13,7,7,Louisiana Superdome (dome),12:02pm,sportturf,80 degrees wind 4 mph,New Orleans Saints-5.0,46.5,Walt Coleman,1,1
+2073,2011-09-18,Jacksonville Jaguars,3,0,0,0,New York Jets,9,6,14,3,MetLife Stadium,1:02pm,fieldturf ,66 degrees relative humidity 71% wind 1 mph,New York Jets-9.0,38.5,Scott Green,4,2
+2074,2011-09-18,Cleveland Browns,0,14,0,13,Indianapolis Colts,3,6,3,7,Lucas Oil Stadium (retractable roof),1:02pm,fieldturf ,65 degrees wind 9 mph,Cleveland Browns-1.5,39.0,Gene Steratore,1,2
+2075,2011-09-18,Tampa Bay Buccaneers,0,0,10,14,Minnesota Vikings,7,10,0,3,Mall of America Field (dome),12:05pm,sportturf,Minnesota ,41.0(over),Jeff Triplette,1,1
+2076,2011-09-18,Kansas City Chiefs,3,0,0,0,Detroit Lions,7,13,7,21,Ford Field (dome),1:02pm,fieldturf ,Detroit Lions-9.0,45.0(over),Tony Corrente,6,1
+2077,2011-09-18,Arizona Cardinals,7,0,7,7,Washington Redskins,0,10,0,12,FedEx Field,1:03pm,grass ,66 degrees relative humidity 71% wind 7 mph,Washington Redskins-4.5,45.0,Peter Morelli,2,2
+2078,2011-09-18,Baltimore Ravens,0,10,0,3,Tennessee Titans,0,10,10,6,LP Field,12:02pm,grass ,76 degrees relative humidity 54% wind 1 mph,Baltimore Ravens-6.0,39.0,Clete Blakeman,3,1
+2079,2011-09-18,Cincinnati Bengals,0,3,12,7,Denver Broncos,7,3,7,7,Sports Authority Field at Mile,2:15pm,grass ,69 degrees relative humidity 27% wind 6 mph,Denver Broncos-3.0,41.0,Ed Hochuli,0,2
+2080,2011-09-19,St. Louis Rams,6,0,10,0,New York Giants,7,14,7,0,MetLife Stadium,8:40pm,fieldturf ,60 degrees relative humidity 72% wind 6 mph,New York Giants-7.0,44.0,Terry McAulay,2,1
+2081,2011-09-25,Green Bay Packers,7,10,3,7,Chicago Bears,0,10,0,7,Soldier Field (II),3:15pm,grass ,61 degrees relative humidity 85% wind 1 mph,Green Bay Packers-5.0,45.5,Mike Carey,2,2
+2082,2011-09-25,Miami Dolphins,7,3,3,3,Cleveland Browns,0,7,3,7,Cleveland Browns Stadium,1:02pm,grass ,70 degrees relative humidity 72% wind 5 mph,Miami Dolphins-2.0,42.5,Walt Anderson,2,1
+2083,2011-09-25,Houston Texans,10,6,3,14,New Orleans Saints,0,10,7,23,Louisiana Superdome (dome),12:02pm,sportturf,85 degrees wind 8 mph,New Orleans Saints-4.0,51.0,Tony Corrente,1,2
+2084,2011-09-25,San Francisco 49ers,0,0,3,10,Cincinnati Bengals,3,0,0,5,Paul Brown Stadium,1:02pm,fieldturf ,71 degrees relative humidity 61% wind 2 mph,Cincinnati Bengals-1.0,38.5,Jerome Boger,1,3
+2085,2011-09-25,Arizona Cardinals,0,10,0,0,Seattle Seahawks,3,3,7,0,CenturyLink Field,1:15pm,fieldturf ,Arizona Cardinals-3.0,43.0(under),Alberto Riveron,2,1
+2086,2011-09-25,Pittsburgh Steelers,10,0,0,13,Indianapolis Colts,0,13,0,7,Lucas Oil Stadium (retractable roof),8:30pm,fieldturf ,57 degrees wind 7 mph,Pittsburgh Steelers-11.0,39.5,Terry McAulay,3,1
+2087,2011-09-25,Kansas City Chiefs,0,0,7,10,San Diego Chargers,0,10,7,3,Qualcomm Stadium,1:05pm,grass ,67 degrees relative humidity 68% wind 8 mph,San Diego Chargers-14.5,44.5,Walt Coleman,1,2
+2088,2011-09-25,Baltimore Ravens,21,6,3,7,St. Louis Rams,0,0,7,0,Edward Jones Dome (dome),3:05pm,astroplay,Baltimore Ravens-6.0,42.0(over),Scott Green,1,2
+2089,2011-09-25,Denver Broncos,7,0,7,0,Tennessee Titans,0,10,0,7,LP Field,12:02pm,grass ,73 degrees relative humidity 51% wind 1 mph,Tennessee Titans-7.0,44.0,John Parry,2,2
+2090,2011-09-25,Atlanta Falcons,0,3,0,10,Tampa Bay Buccaneers,3,10,3,0,Raymond James Stadium,4:16pm,grass ,89 degrees relative humidity 94% wind 9 mph,Tampa Bay Buccaneers-1.0,45.0,Clete Blakeman,3,2
+2091,2011-09-25,New England Patriots,14,7,3,7,Buffalo Bills,0,10,7,17,Ralph Wilson Stadium,1:03pm,a_turf,78 degrees relative humidity 60% wind 8 mph,New England Patriots-7.5,54.5,Carl Cheffers,4,2
+2092,2011-09-25,New York Giants,14,0,0,15,Philadelphia Eagles,0,13,3,0,Lincoln Financial Field,1:03pm,grass ,76 degrees relative humidity 79% wind 5 mph,Philadelphia Eagles-8.0,46.5,Jeff Triplette,0,3
+2093,2011-09-25,New York Jets,7,10,0,7,Oakland Raiders,7,10,7,10,O.co Coliseum,1:04pm,grass ,70 degrees relative humidity 70% wind 7 mph,New York Jets-3.0,41.0,Gene Steratore,2,0
+2094,2011-09-25,Detroit Lions,0,0,10,13,26,Minnesota Vikings(0-3-0),6,14,0,Mall of America Field (dome),12:05pm,sportturf,Detroit Lions-3.0,45.0(over),Ron Winter,0,0
+2095,2011-09-25,Jacksonville Jaguars,0,10,0,0,Carolina Panthers,2,3,3,8,Bank of America Stadium,1:02pm,grass ,75 degrees relative humidity 87% wind 4 mph,Carolina Panthers-3.5,43.5,Bill Leavy,1,0
+2096,2011-09-26,Washington Redskins,6,3,7,0,Dallas Cowboys,3,6,3,6,Cowboys Stadium (dome),7:41pm,matrixturf,Dallas Cowboys-3.5,45.0(under),Ed Hochuli,2,2
+2097,2011-10-02,New England Patriots,7,10,7,7,Oakland Raiders,3,7,3,6,O.co Coliseum,1:15pm,grass ,71 degrees relative humidity 50% wind 6 mph,New England Patriots-6.5,55.5,Tony Corrente,0,2
+2098,2011-10-02,Denver Broncos,3,14,0,6,Green Bay Packers,14,14,14,7,Lambeau Field,3:15pm,grass ,67 degrees relative humidity 37% wind 1 mph,Green Bay Packers-12.0,46.5,Scott Green,4,2
+2099,2011-10-02,Carolina Panthers,3,17,0,9,Chicago Bears,10,14,0,10,Soldier Field (II),12:04pm,grass ,60 degrees relative humidity 50% wind 8 mph,Chicago Bears-7.0,42.0,Terry mcAulay,1,1
+2100,2011-10-02,San Francisco 49ers,0,3,14,7,Philadelphia Eagles,7,13,3,0,Lincoln Financial Field,1:03pm,grass ,54 degrees relative humidity 78% wind 2 mph,Philadelphia Eagles-10.0,43.5,Alberto Riveron,1,3
+2101,2011-10-02,New York Jets,7,10,0,0,Baltimore Ravens,17,10,7,0,M&T Bank Stadium,6:30pm,sportturf,51 degrees relative humidity 66% wind 6 mph,Baltimore Ravens-5.0,43.5,Mike Carey,4,3
+2102,2011-10-02,Tennessee Titans,7,14,10,0,Cleveland Browns,3,3,0,7,Cleveland Browns Stadium,1:03pm,grass ,48 degrees relative humidity 0% wind 2 mph,Cleveland Browns-1.5,37.5,Peter Morelli,1,1
+2103,2011-10-02,Buffalo Bills,0,17,0,3,Cincinnati Bengals,3,0,10,10,Paul Brown Stadium,1:03pm,fieldturf ,57 degrees relative humidity 48% wind 1 mph,Buffalo Bills-3.0,43.0,Gene Steratore,0,2
+2104,2011-10-02,Washington Redskins,7,7,3,0,St. Louis Rams,0,0,0,10,Edward Jones Dome (dome),12:00pm,astroplay,Washington Redskins-3.0,44.0(under),Walt Coleman,2,1
+2105,2011-10-02,Minnesota Vikings,7,0,3,7,Kansas City Chiefs,3,6,6,7,Arrowhead Stadium,12:02pm,grass ,65 degrees relative humidity 40% wind 7 mph,Minnesota Vikings-3.0,40.0,Bill Leavy,1,0
+2106,2011-10-02,Detroit Lions,0,3,14,17,Dallas Cowboys,7,13,10,0,Cowboys Stadium (dome),12:02pm,matrixturf,Dallas Cowboys-2.5,46.5(over),John Parry,1,3
+2107,2011-10-02,Pittsburgh Steelers,0,0,7,3,Houston Texans,7,3,0,7,Reliant Stadium (retractable roof),12:03pm,grass ,75 degrees wind 1 mph,Houston Texans-4.0,46.5,Clete Blakeman,1,0
+2108,2011-10-02,New Orleans Saints,7,7,6,3,Jacksonville Jaguars,0,10,0,0,EverBank Field,1:03pm,grass ,71 degrees relative humidity 40% wind 5 mph,New Orleans Saints-9.0,45.0,Ed Hochuli,2,1
+2109,2011-10-02,Atlanta Falcons,7,17,3,3,Seattle Seahawks,0,7,14,7,CenturyLink Field,1:05pm,fieldturf ,Atlanta Falcons-6.0,39.0(over),Walt Anderson,0,2
+2110,2011-10-02,Miami Dolphins,7,3,3,3,San Diego Chargers,7,6,10,3,Qualcomm Stadium,1:15pm,grass ,84 degrees relative humidity 32% wind 9 mph,San Diego Chargers-7.0,45.0,Jeff Triplette,2,0
+2111,2011-10-02,New York Giants,0,10,0,21,Arizona Cardinals,3,3,14,7,University of Phoenix Stadium (retractable roof),1:05pm,grass ,New York Giants-1.5,45.0(over),Jerome Boger,2,2
+2112,2011-10-03,Indianapolis Colts,3,7,7,0,Tampa Bay Buccaneers,0,7,10,7,Raymond James Stadium,8:40pm,grass ,Tampa Bay Buccaneers-10.0,40.5(over),Ron Winter,1,0
+2113,2011-10-09,Green Bay Packers,0,6,9,10,Atlanta Falcons,7,7,0,0,Georgia Dome (dome),8:30pm,fieldturf ,Green Bay Packers-6.5,53.0(under),Jeff Triplette,1,2
+2114,2011-10-09,New Orleans Saints,10,10,3,7,Carolina Panthers,6,7,7,7,Bank of America Stadium,1:04pm,grass ,68 degrees relative humidity 50% wind 1 mph,New Orleans Saints-6.5,51.5,John Parry,1,1
+2115,2011-10-09,Arizona Cardinals,0,3,7,0,Minnesota Vikings,28,0,3,3,Mall of America Field (dome),12:05pm,sportturf,Minnesota ,45.0(under),Scott Green,4,1
+2116,2011-10-09,Philadelphia Eagles,0,7,7,10,Buffalo Bills,7,14,10,0,Ralph Wilson Stadium,1:04pm,a_turf,74 degrees relative humidity 47% wind 6 mph,Philadelphia Eagles-3.0,53.0,Walt Coleman,5,1
+2117,2011-10-09,Tennessee Titans,3,0,7,7,Pittsburgh Steelers,7,14,7,10,Heinz Field,1:02pm,grass ,70 degrees relative humidity 53% wind 3 mph,Pittsburgh Steelers-3.0,40.0,Walt Anderson,1,1
+2118,2011-10-09,Cincinnati Bengals,7,6,0,17,Jacksonville Jaguars,7,6,0,7,EverBank Field,1:02pm,grass ,79 degrees relative humidity 68% wind 1 mph,Cincinnati Bengals-2.5,37.0,Alberto Rivera,Alberto Riveron,1,2
+2119,2011-10-09,New York Jets,0,7,7,7,New England Patriots,7,3,14,6,Gillette Stadium,4:15pm,fieldturf ,82 degrees relative humidity 40% wind 9 mph,New England Patriots-7.5,50.0,Jerome Boger,0,1
+2120,2011-10-09,Tampa Bay Buccaneers,3,0,0,0,San Francisco 49ers,7,17,10,14,Candlestick Park,1:05pm,grass ,62 degrees relative humidity 75% wind 6 mph,San Francisco 49ers-3.0,41.5,Terry McAulay,3,1
+2121,2011-10-09,San Diego Chargers,6,17,0,6,Denver Broncos,7,3,0,14,Sports Authority Field at Mile,2:16pm,grass ,52 degrees relative humidity 45% wind 6 mph,San Diego Chargers-3.5,46.5,Gene Steratore,2,1
+2122,2011-10-09,Oakland Raiders,3,9,3,10,Houston Texans,7,7,3,3,Reliant Stadium (retractable roof),12:02pm,grass ,72 degrees wind 6 mph,Houston Texans-4.5,48.5,Peter Morelli,1,2
+2123,2011-10-09,Seattle Seahawks,14,0,2,20,New York Giants,7,7,0,11,MetLife Stadium,1:04pm,fieldturf ,81 degrees relative humidity 42% wind 4 mph,New York Giants-10.0,43.5,Ed Hochuli,3,5
+2124,2011-10-09,Kansas City Chiefs,0,14,7,7,Indianapolis Colts,7,17,0,0,Lucas Oil Stadium (retractable roof),1:02pm,fieldturf ,72 degrees wind 1 mph,Indianapolis Colts-1.5,38.0,Carl Cheffers,0,0
+2125,2011-10-10,Chicago Bears,0,10,0,3,Detroit Lions,0,7,14,3,Ford Field (dome),8:40pm,fieldturf ,Detroit Lions-7.0,47.0(under),Clete Blakeman,0,1
+2126,2011-10-16,Dallas Cowboys,3,7,3,3,New England Patriots,3,10,0,7,Gillette Stadium,4:15pm,fieldturf ,New England Patriots-7.0,54.5(under),Walt Coleman,2,4
+2127,2011-10-16,Cleveland Browns,0,7,0,10,Oakland Raiders,7,7,10,0,O.co Coliseum,1:05pm,grass ,71 degrees relative humidity 60% wind 8 mph,Oakland Raiders-6.5,45.0,Carl Cheffers,1,1
+2128,2011-10-16,Philadelphia Eagles,7,13,0,0,Washington Redskins,0,3,3,7,FedEx Field,1:05pm,grass ,68 degrees relative humidity 26% wind 7 mph,Philadelphia Eagles-3.0,46.5,Bill Leavy,2,4
+2129,2011-10-16,Houston Texans,0,7,7,0,Baltimore Ravens,7,3,6,13,M&T Bank Stadium,4:06pm,sportturf,72 degrees relative humidity 29% wind 1 mph,Baltimore Ravens-7.0,43.5,Gene Steratore,0,2
+2130,2011-10-16,Indianapolis Colts,0,7,0,10,Cincinnati Bengals,7,3,10,7,Paul Brown Stadium,1:02pm,fieldturf ,71 degrees relative humidity 41% wind 1 mph,Cincinnati Bengals-4.5,40.5,John Parry,3,0
+2131,2011-10-16,New Orleans Saints,7,3,3,7,Tampa Bay Buccaneers,3,17,3,3,Raymond James Stadium,4:15pm,grass ,New Orleans Saints-6.5,49.5(under),Jerome Boger,4,0
+2132,2011-10-16,Minnesota Vikings,0,3,7,0,Chicago Bears,16,10,10,3,Soldier Field (II),7:30pm,grass ,56 degrees relative humidity 48% wind 1 mph,Chicago Bears-2.5,42.0,Walt Anderson,0,1
+2133,2011-10-16,Buffalo Bills,14,3,0,7,New York Giants,7,10,7,3,MetLife Stadium,1:02pm,fieldturf ,65 degrees relative humidity 40% wind 1 mph,New York Giants-3.0,49.0,Clete Blakeman,2,0
+2134,2011-10-16,St. Louis Rams,0,3,0,0,Green Bay Packers,3,21,0,0,Lambeau Field,12:02pm,grass ,57 degrees relative humidity 41% wind 2 mph,Green Bay Packers-14.0,47.5,Ed Hochuli,1,1
+2135,2011-10-16,Jacksonville Jaguars,0,3,7,3,Pittsburgh Steelers,7,10,0,0,Heinz Field,1:02pm,grass ,58 degrees relative humidity 52% wind 1 mph,Pittsburgh Steelers-12.5,40.0,Ron Winter,0,0
+2136,2011-10-16,Carolina Panthers,3,7,7,0,Atlanta Falcons,7,7,0,17,Georgia Dome (dome),1:02pm,fieldturf ,Atlanta Falcons-3.5,49.5(under),Peter Morelli,3,0
+2137,2011-10-16,San Francisco 49ers,0,12,3,10,Detroit Lions,10,0,3,6,Ford Field (dome),1:03pm,fieldturf ,Detroit Lions-5.0,45.0(under),Mike Carey,2,0
+2138,2011-10-17,Miami Dolphins,3,3,0,0,New York Jets,7,7,3,7,MetLife Stadium,8:40pm,fieldturf ,62 degrees relative humidity 37% wind 1 mph,New York Jets-7.5,41.5,Tony Corrente,3,1
+2139,2011-10-23,Denver Broncos,0,0,0,15,18,Miami Dolphins(0-6-0),0,6,0,Sun Life Stadium,1:02pm,grass ,77 degrees relative humidity 57% wind 9 mph,Denver Broncos-1.0,41.5,Clete Blakeman,1,1
+2140,2011-10-23,Seattle Seahawks,0,0,3,0,Cleveland Browns,0,3,0,3,Cleveland Browns Stadium,1:05pm,grass ,56 degrees relative humidity 53% wind 7 mph wind chill 0,Cleveland Browns-3.0,41.0,Mike Carey,2,1
+2141,2011-10-23,Pittsburgh Steelers,7,10,9,6,Arizona Cardinals,0,7,7,6,University of Phoenix Stadium (retractable roof),1:05pm,grass ,Pittsburgh Steelers-4.5,46.5(over),John Parry,0,1
+2142,2011-10-23,Kansas City Chiefs,14,0,7,7,Oakland Raiders,0,0,0,0,O.co Coliseum,4:05pm,grass ,79 degrees relative humidity 46% wind 6 mph,Oakland Raiders-3.5,41.5,Jeff Triplette,2,6
+2143,2011-10-23,St. Louis Rams,0,7,0,0,Dallas Cowboys,7,10,3,14,Cowboys Stadium (dome),3:15pm,matrixturf,Dallas Cowboys-14.0,43.0(under),Alberto Riveron,2,1
+2144,2011-10-23,San Diego Chargers,7,14,0,0,New York Jets,3,7,7,10,MetLife Stadium,1:03pm,fieldturf ,58 degrees relative humidity 46% no wind,San Diego Chargers-1.0,43.5,Ron Winter,2,2
+2145,2011-10-23,Houston Texans,3,17,7,14,Tennessee Titans,0,0,7,0,LP Field,12:02pm,grass ,72 degrees relative humidity 35% no wind,Tennessee Titans-2.5,44.0,Terry McAulay,0,2
+2146,2011-10-23,Chicago Bears,7,7,7,3,Tampa Bay Buccaneers,2,3,0,13,Raymond James Stadium,6:05pm,grass ,62 degrees relative humidity 54% wind 1 mph,Chicago Bears-2.0,44.0,Tony Corrente,2,4
+2147,2011-10-23,Indianapolis Colts,0,7,0,0,New Orleans Saints,21,13,14,14,Louisiana Superdome (dome),7:30pm,sportturf,75 degrees wind 8 mph,New Orleans Saints-14.0,49.0,Scott Green,3,0
+2148,2011-10-23,Green Bay Packers,7,6,20,0,Minnesota Vikings,7,10,0,10,Mall of America Field (dome),3:15pm,sportturf,Green Bay Packers-11.0,47.0(over),Peter Morelli,1,2
+2149,2011-10-23,Atlanta Falcons,10,7,3,3,Detroit Lions,3,3,10,0,Ford Field (dome),1:05pm,fieldturf ,Detroit Lions-4.5,47.0(under),Bill Leavy,2,1
+2150,2011-10-23,Washington Redskins,0,6,7,7,Carolina Panthers,3,6,14,10,Bank of America Stadium,1:05pm,grass ,62 degrees relative humidity 56% no wind,Carolina Panthers-2.5,44.5,Jerome Boger,3,0
+2151,2011-10-24,Baltimore Ravens,0,0,0,7,Jacksonville Jaguars,3,3,3,3,EverBank Field,8:40pm,grass ,60 degrees relative humidity 77% no wind,Baltimore Ravens-10.5,39.0,Carl Cheffers,2,1
+2152,2011-10-30,Cleveland Browns,0,3,0,7,San Francisco 49ers,10,7,0,3,Candlestick Park,1:15pm,grass ,67 degrees relative humidity 68% wind 5 mph,San Francisco 49ers-9.5,38.5,Bill Leavy,2,0
+2153,2011-10-30,Miami Dolphins,7,7,3,0,New York Giants,3,7,0,10,MetLife Stadium,1:02pm,fieldturf ,41 degrees relative humidity 55% wind 1 mph,New York Giants-10.0,43.5,Ron Winter,1,0
+2154,2011-10-30,Detroit Lions,7,17,14,7,Denver Broncos,3,0,0,7,Sports Authority Field at Mile,2:10pm,grass ,56 degrees relative humidity 31% wind 5 mph,Detroit Lions-3.5,43.5,Walt Coleman,0,3
+2155,2011-10-30,New England Patriots,0,10,0,7,Pittsburgh Steelers,7,10,3,5,Heinz Field,4:15pm,grass ,40 degrees relative humidity 79% wind 3 mph,New England Patriots-3.0,52.0,Mike Carey,0,1
+2156,2011-10-30,Dallas Cowboys,0,0,0,7,Philadelphia Eagles,14,10,3,7,Lincoln Financial Field,8:28pm,grass ,42 degrees relative humidity 64% wind 5 mph,Philadelphia Eagles-3.0,49.5,Gene Steratore,1,0
+2157,2011-10-30,Arizona Cardinals,3,21,0,3,Baltimore Ravens,0,6,14,10,M&T Bank Stadium,1:02pm,sportturf,48 degrees relative humidity 49% wind 9 mph,Baltimore Ravens-11.5,43.0,Jeff Triplette,1,2
+2158,2011-10-30,Washington Redskins,0,0,0,0,Buffalo Bills,7,6,7,3,Ralph Wilson Stadium,4:05pm,a_turf,Buffalo Bills-4.0,46.5(under),Terry McAulay,2,2
+2159,2011-10-30,Cincinnati Bengals,10,7,0,17,Seattle Seahawks,0,3,3,6,CenturyLink Field,1:16pm,fieldturf ,Cincinnati Bengals-1.5,37.5(over),Tony Corrente,2,2
+2160,2011-10-30,Indianapolis Colts,0,0,3,7,Tennessee Titans,3,17,0,7,LP Field,12:02pm,grass ,62 degrees relative humidity 35% no wind,Tennessee Titans-7.5,43.5,Jerome Boger,2,0
+2161,2011-10-30,New Orleans Saints,0,0,7,14,St. Louis Rams,0,17,7,7,Edward Jones Dome (dome),12:00pm,astroplay,New Orleans Saints-14.0,48.5(over),Walt Anderson,2,1
+2162,2011-10-30,Minnesota Vikings,7,7,7,3,Carolina Panthers,0,14,7,0,Bank of America Stadium,1:03pm,grass ,54 degrees relative humidity 52% wind 6 mph,Carolina Panthers-3.0,47.0,Ed Hochuli,1,2
+2163,2011-10-30,Jacksonville Jaguars,0,7,0,7,Houston Texans,7,0,7,10,Reliant Stadium (retractable roof),12:02pm,grass ,68 degrees wind 4 mph,Houston Texans-10.0,41.0,Scott Green,2,2
+2164,2011-10-31,San Diego Chargers,0,3,9,8,20,Kansas City Chiefs(4-3-0),10,3,0,Arrowhead Stadium,7:40pm,grass ,63 degrees relative humidity 31% no wind,San Diego Chargers-3.0,44.5,Alberto Riveron,4,4
+2165,2011-11-06,Denver Broncos,7,0,17,14,Oakland Raiders,3,14,7,0,O.co Coliseum,1:05pm,grass ,Oakland Raiders-7.5,42.5(over),John Parry,0,3
+2166,2011-11-06,San Francisco 49ers,0,13,3,3,Washington Redskins,0,3,0,8,FedEx Field,1:03pm,grass ,56 degrees relative humidity 48% wind 6 mph,San Francisco 49ers-4.5,37.5,Gene Steratore,1,3
+2167,2011-11-06,New York Jets,0,3,17,7,Buffalo Bills,0,0,3,8,Ralph Wilson Stadium,1:03pm,a_turf,57 degrees relative humidity 26% wind 8 mph,Buffalo Bills-2.5,45.0,Ed Hochuli,2,3
+2168,2011-11-06,Cleveland Browns,3,0,3,6,Houston Texans,14,10,3,3,Reliant Stadium (retractable roof),12:03pm,grass ,78 degrees wind 1 mph,Houston Texans-10.5,41.0,Alberto Riveron,2,1
+2169,2011-11-06,St. Louis Rams,3,6,4,0,13,Arizona Cardinals(2-6-0),3,0,3,University of Phoenix Stadium (retractable roof),2:15pm,grass ,Arizona Cardinals-3.0,41.5(under),Ron Winter,1,0
+2170,2011-11-06,New York Giants,0,0,10,14,New England Patriots,0,0,3,17,Gillette Stadium,4:15pm,fieldturf ,New England Patriots-9.0,51.0(under),Peter Morelli,2,4
+2171,2011-11-06,Miami Dolphins,7,7,14,3,Kansas City Chiefs,3,0,0,0,Arrowhead Stadium,12:03pm,grass ,62 degrees relative humidity 45% wind 1 mph,Kansas City Chiefs-4.0,40.5,Walt Anderson,0,0
+2172,2011-11-06,Seattle Seahawks,3,3,0,7,Dallas Cowboys,3,3,7,10,Cowboys Stadium (dome),12:02pm,matrixturf,Dallas Cowboys-11.0,45.0(under),Terry McAulay,3,1
+2173,2011-11-06,Atlanta Falcons,14,7,7,3,Indianapolis Colts,0,7,0,0,Lucas Oil Stadium (retractable roof),1:02pm,fieldturf ,57 degrees wind 1 mph,Atlanta Falcons-7.0,45.5,Mike Carey,1,2
+2174,2011-11-06,Green Bay Packers,21,7,3,14,San Diego Chargers,7,10,7,14,Qualcomm Stadium,1:15pm,grass ,53 degrees relative humidity 90% wind 1 mph,Green Bay Packers-6.0,51.0,Clete Blakeman,0,3
+2175,2011-11-06,Cincinnati Bengals,0,7,7,10,Tennessee Titans,3,14,0,0,LP Field,3:05pm,grass ,68 degrees relative humidity 39% wind 1 mph,Tennessee Titans-3.0,41.5,Jeff Triplette,0,1
+2176,2011-11-06,Baltimore Ravens,3,6,7,7,Pittsburgh Steelers,0,6,0,14,Heinz Field,8:30pm,grass ,50 degrees relative humidity 43% wind 2 mph,Pittsburgh Steelers-3.5,42.0,Walt Coleman,1,2
+2177,2011-11-06,Tampa Bay Buccaneers,0,3,3,10,New Orleans Saints,7,10,7,3,Louisiana Superdome (dome),12:03pm,sportturf,70 degrees wind 1 mph,New Orleans Saints-9.0,50.5,Carl Cheffers,0,1
+2178,2011-11-07,Chicago Bears,7,10,3,10,Philadelphia Eagles,0,10,14,0,Lincoln Financial Field,8:41pm,grass ,51 degrees relative humidity 74% wind 2 mph,Philadelphia Eagles-8.0,47.5,Scott Green,2,2
+2179,2011-11-10,Oakland Raiders,7,10,7,0,San Diego Chargers,3,0,14,0,Qualcomm Stadium,5:29pm,grass ,69 degrees relative humidity 27% wind 5 mph,San Diego Chargers-7.0,48.0,Ed Hochuli,2,2
+2180,2011-11-13,Washington Redskins,3,3,3,0,Miami Dolphins,7,3,3,7,Sun Life Stadium,1:03pm,grass ,79 degrees relative humidity 58% wind 1 mph,Miami Dolphins-4.0,38.0,Carl Cheffers,2,2
+2181,2011-11-13,Denver Broncos,7,3,0,7,Kansas City Chiefs,0,0,7,3,Arrowhead Stadium,12:03pm,grass ,67 degrees relative humidity 23% wind 1 mph,Kansas City Chiefs-3.5,42.5,Ron Winter,0,0
+2182,2011-11-13,New England Patriots,6,7,10,14,New York Jets,0,9,0,7,MetLife Stadium,8:31pm,fieldturf ,58 degrees relative humidity 37% wind 1 mph,New York Jets-2.5,47.0,Gene Steratore,0,3
+2183,2011-11-13,New Orleans Saints,3,7,7,6,26,Atlanta Falcons(5-4-0),3,3,7,Georgia Dome (dome),1:03pm,fieldturf ,Atlanta Falcons-1.0,50.0(under),Terry McAulay,0,1
+2184,2011-11-13,Buffalo Bills,0,7,0,0,Dallas Cowboys,14,14,6,10,Cowboys Stadium (dome),12:02pm,matrixturf,Dallas Cowboys-4.5,49.0(over),Jerome Boger,4,0
+2185,2011-11-13,Arizona Cardinals,0,7,0,14,Philadelphia Eagles,0,14,0,3,Lincoln Financial Field,1:02pm,grass ,60 degrees relative humidity 40% wind 1 mph,Philadelphia Eagles-13.0,47.5,Walt Anderson,2,2
+2186,2011-11-13,St. Louis Rams,0,10,0,3,Cleveland Browns,3,6,3,0,Cleveland Browns Stadium,1:03pm,grass ,Cleveland Browns-3.0,36.5(under),Clete Blakeman,2,1
+2187,2011-11-13,New York Giants,3,3,7,7,San Francisco 49ers,3,6,3,15,Candlestick Park,12:28pm,grass ,58 degrees relative humidity 74% wind 1 mph,San Francisco 49ers-4.0,42.5,Tony Corrente,2,1
+2188,2011-11-13,Detroit Lions,0,6,0,7,Chicago Bears,10,10,17,0,Soldier Field (II),3:16pm,grass ,69 degrees relative humidity 44% wind 2 mph,Chicago Bears-3.0,42.5,Peter Morelli,6,1
+2189,2011-11-13,Baltimore Ravens,0,7,3,7,Seattle Seahawks,10,9,3,0,CenturyLink Field,1:06pm,fieldturf ,Baltimore Ravens-7.0,39.0(push),Scott Green,3,0
+2190,2011-11-13,Tennessee Titans,14,3,3,10,Carolina Panthers,0,0,3,0,Bank of America Stadium,1:04pm,grass ,57 degrees relative humidity 54% wind 1 mph,Carolina Panthers-3.5,47.5,Walt Coleman,1,2
+2191,2011-11-13,Pittsburgh Steelers,14,3,7,0,Cincinnati Bengals,7,3,7,0,Paul Brown Stadium,1:02pm,fieldturf ,62 degrees relative humidity 60% wind 2 mph,Pittsburgh Steelers-4.0,40.5,Bill Leavy,1,2
+2192,2011-11-13,Houston Texans,9,7,14,7,Tampa Bay Buccaneers,0,3,0,6,Raymond James Stadium,1:02pm,grass ,77 degrees relative humidity 47% wind 9 mph,Houston Texans-4.0,45.5,John Parry,0,4
+2193,2011-11-13,Jacksonville Jaguars,3,0,7,7,Indianapolis Colts,0,3,0,0,Lucas Oil Stadium (retractable roof),1:02pm,fieldturf ,62 degrees wind 2 mph,Jacksonville Jaguars-3.0,37.5,Jeff Triplette,1,3
+2194,2011-11-14,Minnesota Vikings,0,0,7,0,Green Bay Packers,14,3,14,14,Lambeau Field,7:40pm,grass ,Green Bay Packers-13.0,50.0(over),Mike Carey,1,1
+2195,2011-11-17,New York Jets,0,3,7,3,Denver Broncos,3,0,7,7,Sports Authority Field at Mile,6:30pm,grass ,54 degrees relative humidity 20% wind 3 mph,New York Jets-6.5,38.5,Bill Leavy,2,1
+2196,2011-11-20,Buffalo Bills,3,3,0,2,Miami Dolphins,14,14,7,0,Sun Life Stadium,1:02pm,grass ,80 degrees relative humidity 79% wind 1 mph,Miami Dolphins-3.0,44.0,Walt Coleman,2,0
+2197,2011-11-20,Oakland Raiders,3,21,3,0,Minnesota Vikings,7,0,0,14,Mall of America Field (dome),12:05pm,sportturf,Minnesota ,46.5(over),Jerome Boger,1,5
+2198,2011-11-20,Seattle Seahawks,0,10,7,7,St. Louis Rams,7,0,0,0,Edward Jones Dome (dome),3:05pm,astroplay,St. Louis Rams-3.0,40.0(under),Carl Cheffers,2,3
+2199,2011-11-20,Dallas Cowboys,7,3,0,14,27,Washington Redskins(3-7-0),0,14,3,FedEx Field,1:03pm,grass ,62 degrees relative humidity 55% wind 4 mph,Dallas Cowboys-7.0,43.0,Ed Hochuli,0,2
+2200,2011-11-20,Arizona Cardinals,0,0,0,7,San Francisco 49ers,6,3,14,0,Candlestick Park,1:05pm,grass ,55 degrees relative humidity 72% wind 1 mph,San Francisco 49ers-10.0,40.5,Peter Morelli,5,1
+2201,2011-11-20,Carolina Panthers,10,17,0,8,Detroit Lions,0,14,14,21,Ford Field (dome),1:02pm,fieldturf ,Detroit Lions-7.0,47.5(over),Gene Steratore,4,3
+2202,2011-11-20,San Diego Chargers,3,7,7,3,Chicago Bears,3,14,14,0,Soldier Field (II),3:16pm,grass ,42 degrees relative humidity 78% wind 1 mph,Chicago Bears-4.5,45.5,Jeff Triplette,3,1
+2203,2011-11-20,Tennessee Titans,0,3,7,7,Atlanta Falcons,7,6,10,0,Georgia Dome (dome),4:15pm,fieldturf ,Atlanta Falcons-6.5,44.0(under),John Parry,1,1
+2204,2011-11-20,Cincinnati Bengals,7,0,7,10,Baltimore Ravens,0,14,10,7,M&T Bank Stadium,1:02pm,sportturf,67 degrees relative humidity 59% wind 7 mph,Baltimore Ravens-7.0,40.5,Ron Winter,3,1
+2205,2011-11-20,Tampa Bay Buccaneers,0,10,3,13,Green Bay Packers,7,14,0,14,Lambeau Field,12:02pm,grass ,32 degrees relative humidity 66% wind 7 mph wind chill 25,Green Bay Packers-13.5,49.0,Alberto Riveron,2,1
+2206,2011-11-20,Philadelphia Eagles,0,10,0,7,New York Giants,0,3,0,7,MetLife Stadium,8:32pm,fieldturf ,58 degrees relative humidity 66% wind 1 mph,New York Giants-6.0,45.5,Mike Carey,3,2
+2207,2011-11-20,Jacksonville Jaguars,0,7,0,3,Cleveland Browns,0,7,0,7,Cleveland Browns Stadium,1:02pm,grass ,57 degrees relative humidity 5% wind 1 mph,Cleveland Browns-1.5,34.5,Terry McAulay,0,1
+2208,2011-11-21,Kansas City Chiefs,3,0,0,0,New England Patriots,0,10,17,7,Gillette Stadium,8:40pm,fieldturf ,New England Patriots-17.0,47.0(under),Clete Blakeman,3,1
+2209,2011-11-24,Green Bay Packers,0,7,17,3,Detroit Lions,0,0,0,15,Ford Field (dome),12:35pm,fieldturf ,Green Bay Packers-4.5,55.0(under),Terry McAulay,0,3
+2210,2011-11-24,Miami Dolphins,3,3,10,3,Dallas Cowboys,0,10,0,10,Cowboys Stadium (dome),3:16pm,matrixturf,Dallas Cowboys-7.0,46.0(under),Peter Morelli,1,2
+2211,2011-11-24,San Francisco 49ers,3,0,3,0,Baltimore Ravens,3,3,0,10,M&T Bank Stadium,8:29pm,sportturf,53 degrees relative humidity 32% wind 5 mph,Baltimore Ravens-3.5,40.5,John Parry,1,0
+2212,2011-11-27,Tampa Bay Buccaneers,3,7,7,0,Tennessee Titans,7,3,0,13,LP Field,12:02pm,grass ,47 degrees relative humidity 96% wind 2 mph,Tennessee Titans-3.0,44.0,Bill Leavy,5,4
+2213,2011-11-27,Denver Broncos,0,7,3,3,16,San Diego Chargers(4-7-0),3,7,3,Qualcomm Stadium,1:15pm,grass ,84 degrees relative humidity 12% no wind,San Diego Chargers-5.5,42.0,Jeff Triplette,0,0
+2214,2011-11-27,Houston Texans,7,13,0,0,Jacksonville Jaguars,7,3,0,3,EverBank Field,1:03pm,grass ,75 degrees relative humidity 61% wind 1 mph,Houston Texans-6.5,37.0,Walt Coleman,1,1
+2215,2011-11-27,Minnesota Vikings,0,0,7,7,Atlanta Falcons,7,10,0,7,Georgia Dome (dome),1:02pm,fieldturf ,Atlanta Falcons-10.0,44.0(under),Alberto Riveron,0,1
+2216,2011-11-27,Chicago Bears,0,7,0,13,Oakland Raiders,6,6,6,7,O.co Coliseum,1:05pm,grass ,59 degrees relative humidity 76% wind 6 mph wind chill 0,Oakland Raiders-3.0,41.0,Ron Winter,3,1
+2217,2011-11-27,Washington Redskins,7,0,0,16,Seattle Seahawks,0,7,3,7,CenturyLink Field,1:07pm,fieldturf ,Seattle Seahawks-3.0,37.5(over),Clete Blakeman,2,1
+2218,2011-11-27,New England Patriots,7,17,7,7,Philadelphia Eagles,10,3,0,7,Lincoln Financial Field,4:15pm,grass ,63 degrees relative humidity 56% wind 1 mph,New England Patriots-3.5,50.5,Jerome Boger,0,1
+2219,2011-11-27,Pittsburgh Steelers,0,13,0,0,Kansas City Chiefs,3,3,0,3,Arrowhead Stadium,7:31pm,grass ,Pittsburgh Steelers-10.5,40.5(under),Ed Hochuli,2,4
+2220,2011-11-27,Arizona Cardinals,3,0,17,3,St. Louis Rams,7,3,0,10,Edward Jones Dome (dome),12:00pm,astroplay,St. Louis Rams-2.5,40.0(over),Mike Carey,3,2
+2221,2011-11-27,Buffalo Bills,7,7,7,3,New York Jets,0,14,7,7,MetLife Stadium,1:02pm,fieldturf ,60 degrees relative humidity 63% wind 1 mph,New York Jets-9.5,42.5,Carl Cheffers,0,2
+2222,2011-11-27,Carolina Panthers,3,7,7,10,Indianapolis Colts,0,10,3,6,Lucas Oil Stadium (retractable roof),1:03pm,fieldturf ,45 degrees wind 7 mph,Carolina Panthers-3.5,46.5,Tony Corrente,1,2
+2223,2011-11-27,Cleveland Browns,7,10,3,0,Cincinnati Bengals,7,0,10,6,Paul Brown Stadium,1:02pm,fieldturf ,57 degrees relative humidity 98% wind 7 mph,Cincinnati Bengals-7.0,38.0,Walt Anderson,1,1
+2224,2011-11-28,New York Giants,0,3,7,14,New Orleans Saints,0,21,14,14,Louisiana Superdome (dome),7:40pm,sportturf,45 degrees wind 2 mph,New Orleans Saints-7.0,51.0,Gene Steratore,2,0
+2225,2011-12-01,Philadelphia Eagles,0,7,0,7,Seattle Seahawks,7,10,7,7,CenturyLink Field,5:29pm,fieldturf ,Philadelphia Eagles-3.0,43.5(over),Peter Morelli,4,0
+2226,2011-12-04,Atlanta Falcons,0,3,7,0,Houston Texans,3,7,0,7,Reliant Stadium (retractable roof),12:03pm,grass ,72 degrees wind 2 mph,Atlanta Falcons-2.0,38.0,Bill Leavy,2,1
+2227,2011-12-04,Tennessee Titans,10,7,3,3,Buffalo Bills,7,3,0,7,Ralph Wilson Stadium,1:02pm,a_turf,57 degrees relative humidity 41% wind 1 mph,Buffalo Bills-1.0,44.0,Alberto Riveron,0,2
+2228,2011-12-04,Baltimore Ravens,0,10,7,7,Cleveland Browns,0,0,3,7,Cleveland Browns Stadium,4:05pm,grass ,Baltimore Ravens-7.0,38.5(under),Ed Hochuli,1,1
+2229,2011-12-04,St. Louis Rams,0,0,0,0,San Francisco 49ers,3,6,10,7,Candlestick Park,1:15pm,grass ,53 degrees relative humidity 48% wind 2 mph,San Francisco 49ers-14.5,38.5,Peter Morelli,2,0
+2230,2011-12-04,Detroit Lions,0,7,10,0,New Orleans Saints,3,21,0,7,Louisiana Superdome (dome),7:31pm,sportturf,70 degrees wind 1 mph,New Orleans Saints-9.0,54.5,Clete Blakeman,1,0
+2231,2011-12-04,Dallas Cowboys,0,10,3,0,13,Arizona Cardinals(5-7-0),3,0,3,University of Phoenix Stadium (retractable roof),2:15pm,grass ,Dallas Cowboys-4.5,46.5(under),Walt Coleman,0,0
+2232,2011-12-04,Cincinnati Bengals,0,7,0,0,Pittsburgh Steelers,0,28,7,0,Heinz Field,1:02pm,grass ,59 degrees relative humidity 28% wind 1 mph,Pittsburgh Steelers-7.0,43.0,Carl Cheffers,2,0
+2233,2011-12-04,New York Jets,7,3,3,21,Washington Redskins,7,6,0,6,FedEx Field,1:03pm,grass ,53 degrees relative humidity 57% wind 5 mph,New York Jets-3.0,38.5,John Parry,1,3
+2234,2011-12-04,Carolina Panthers,14,10,7,7,Tampa Bay Buccaneers,3,9,0,7,Raymond James Stadium,1:02pm,grass ,79 degrees relative humidity 46% wind 1 mph,Carolina Panthers-2.5,46.5,Gene Steratore,0,1
+2235,2011-12-04,Denver Broncos,7,0,14,14,Minnesota Vikings,5,10,7,10,Mall of America Field (dome),12:05pm,sportturf,Minnesota ,37.5(over),Terry McAulay,2,3
+2236,2011-12-04,Oakland Raiders,0,0,0,14,Miami Dolphins,6,7,21,0,Sun Life Stadium,1:03pm,grass ,80 degrees relative humidity 49% wind 2 mph,Miami Dolphins-3.0,43.0,Mike Carey,1,0
+2237,2011-12-04,Green Bay Packers,7,14,7,10,New York Giants,10,7,7,11,MetLife Stadium,4:15pm,fieldturf ,52 degrees relative humidity 67% wind 9 mph,Green Bay Packers-7.0,54.0,Jeff Triplette,1,2
+2238,2011-12-04,Indianapolis Colts,0,3,0,21,New England Patriots,3,14,14,0,Gillette Stadium,1:02pm,fieldturf ,New England Patriots-20.5,48.5(over),Ron Winter,2,0
+2239,2011-12-04,Kansas City Chiefs,0,7,3,0,Chicago Bears,0,3,0,0,Soldier Field (II),12:03pm,grass ,46 degrees relative humidity 79% wind 1 mph,Chicago Bears-9.0,35.0,Jerome Boger,1,3
+2240,2011-12-05,San Diego Chargers,10,14,7,7,Jacksonville Jaguars,0,14,0,0,EverBank Field,8:41pm,grass ,67 degrees relative humidity 81% wind 6 mph,San Diego Chargers-3.0,39.5,Walt Anderson,0,1
+2241,2011-12-08,Cleveland Browns,3,0,0,0,Pittsburgh Steelers,7,0,0,7,Heinz Field,8:28pm,grass ,31 degrees relative humidity 74% wind 6 mph wind chill 25,Pittsburgh Steelers-14.0,40.0,Ed Hochuli,2,3
+2242,2011-12-11,New York Giants,5,10,7,15,Dallas Cowboys,7,10,3,14,Cowboys Stadium (dome),7:30pm,matrixturf,Dallas Cowboys-4.5,50.5(over),Scott Green,1,1
+2243,2011-12-11,Chicago Bears,0,0,7,3,10,Denver Broncos(8-5-0),0,0,0,Sports Authority Field at Mile,2:05pm,grass ,50 degrees relative humidity 22% wind 7 mph,Denver Broncos-3.5,35.5,Carl Cheffers,1,2
+2244,2011-12-11,Tampa Bay Buccaneers,7,7,0,0,Jacksonville Jaguars,0,28,0,13,EverBank Field,1:03pm,grass ,Tampa Bay Buccaneers-3.0,42.0(over),Jerome Boger,7,2
+2245,2011-12-11,San Francisco 49ers,3,9,7,0,Arizona Cardinals,0,7,7,7,University of Phoenix Stadium (retractable roof),2:05pm,grass ,San Francisco 49ers-3.5,40.0(push),Alberto Riveron,0,3
+2246,2011-12-11,Oakland Raiders,0,0,7,9,Green Bay Packers,14,17,12,3,Lambeau Field,3:15pm,grass ,43 degrees relative humidity 55% wind 1 mph,Green Bay Packers-11.5,49.5,Peter Morelli,5,1
+2247,2011-12-11,Houston Texans,3,0,7,10,Cincinnati Bengals,6,10,3,0,Paul Brown Stadium,1:02pm,fieldturf ,34 degrees relative humidity 47% wind 4 mph wind chill 30,Cincinnati Bengals-3.0,37.0,Ed Hochuli,4,2
+2248,2011-12-11,Indianapolis Colts,0,3,0,7,Baltimore Ravens,10,7,7,0,M&T Bank Stadium,1:02pm,sportturf,43 degrees relative humidity 34% wind 2 mph,Baltimore Ravens-16.5,41.5,Clete Blakeman,1,2
+2249,2011-12-11,New Orleans Saints,3,3,3,13,Tennessee Titans,0,3,7,7,LP Field,12:03pm,grass ,41 degrees relative humidity 44% wind 7 mph,New Orleans Saints-3.5,48.0,Mike Carey,0,0
+2250,2011-12-11,Atlanta Falcons,7,0,10,14,Carolina Panthers,7,16,0,0,Bank of America Stadium,1:04pm,grass ,43 degrees relative humidity 45% wind 1 mph,Atlanta Falcons-3.0,47.5,Walt Anderson,0,2
+2251,2011-12-11,Minnesota Vikings,7,7,7,7,Detroit Lions,21,10,0,3,Ford Field (dome),1:03pm,fieldturf ,Detroit Lions-10.0,47.0(over),John Parry,6,0
+2252,2011-12-11,Kansas City Chiefs,3,0,0,7,New York Jets,7,21,7,2,MetLife Stadium,1:02pm,fieldturf ,37 degrees relative humidity 35% wind 5 mph,New York Jets-10.5,35.5,Terry McAulay,1,1
+2253,2011-12-11,Philadelphia Eagles,0,24,0,2,Miami Dolphins,7,0,3,0,Sun Life Stadium,1:03pm,grass ,75 degrees relative humidity 83% wind 1 mph,Miami Dolphins-3.0,44.5,Ron Winter,2,3
+2254,2011-12-11,New England Patriots,14,6,14,0,Washington Redskins,10,10,7,0,FedEx Field,1:03pm,grass ,40 degrees relative humidity 33% no wind,New England Patriots-7.5,47.0,Jeff Triplette,1,2
+2255,2011-12-11,Buffalo Bills,0,0,10,0,San Diego Chargers,7,9,14,7,Qualcomm Stadium,1:15pm,grass ,59 degrees relative humidity 61% wind 5 mph,San Diego Chargers-7.0,49.0,Gene Steratore,3,1
+2256,2011-12-12,St. Louis Rams,0,3,3,7,Seattle Seahawks,10,0,10,10,CenturyLink Field,5:40pm,fieldturf ,Seattle Seahawks-9.5,37.0(over),Bill Leavy,1,1
+2257,2011-12-15,Jacksonville Jaguars,0,0,7,7,Atlanta Falcons,10,17,14,0,Georgia Dome (dome),8:29pm,fieldturf ,Atlanta Falcons-13.5,42.0(over),Ron Winter,4,0
+2258,2011-12-17,Dallas Cowboys,14,14,3,0,Tampa Bay Buccaneers,0,0,15,0,Raymond James Stadium,8:29pm,grass ,66 degrees relative humidity 78% wind 3 mph,Dallas Cowboys-7.0,47.0,Terry McAulay,1,1
+2259,2011-12-18,Cincinnati Bengals,3,0,10,7,St. Louis Rams,0,6,0,7,Edward Jones Dome (dome),12:00pm,astroplay,Cincinnati Bengals-7.0,39.0(under),Jerome Boger,1,0
+2260,2011-12-18,Baltimore Ravens,0,7,0,7,San Diego Chargers,7,10,14,3,Qualcomm Stadium,5:30pm,grass ,58 degrees relative humidity 67% wind 7 mph,Baltimore Ravens-2.5,44.0,Carl Cheffers,2,0
+2261,2011-12-18,Miami Dolphins,0,13,7,10,Buffalo Bills,7,0,0,16,Ralph Wilson Stadium,1:02pm,a_turf,31 degrees relative humidity 64% wind 1 mph,Buffalo Bills-1.5,40.5,John Parry,3,3
+2262,2011-12-18,New Orleans Saints,7,14,14,7,Minnesota Vikings,3,10,0,7,Mall of America Field (dome),12:05pm,sportturf,New Orleans Saints-7.5,53.5(over),Walt Anderson,2,1
+2263,2011-12-18,Carolina Panthers,7,14,0,7,Houston Texans,0,0,6,7,Reliant Stadium (retractable roof),12:03pm,grass ,57 degrees wind 1 mph,Houston Texans-6.0,45.5,Jeff Triplette,0,3
+2264,2011-12-18,Washington Redskins,3,14,3,3,New York Giants,0,3,0,7,MetLife Stadium,1:02pm,fieldturf ,29 degrees relative humidity 34% wind 9 mph wind chill 20,New York Giants-6.0,46.5,Alberto Riveron,2,3
+2265,2011-12-18,New England Patriots,7,20,7,7,Denver Broncos,13,3,0,7,Sports Authority Field at Mile,2:16pm,grass ,63 degrees relative humidity 16% wind 3 mph,New England Patriots-7.5,47.5,Mike Carey,0,3
+2266,2011-12-18,Cleveland Browns,7,3,7,0,17,Arizona Cardinals(7-7-0),0,7,0,University of Phoenix Stadium (retractable roof),2:15pm,grass ,Arizona Cardinals-6.5,37.5(under),Scott Green,1,1
+2267,2011-12-18,Tennessee Titans,0,6,0,7,Indianapolis Colts,3,0,14,10,Lucas Oil Stadium (retractable roof),1:03pm,fieldturf ,41 degrees wind 9 mph,Tennessee Titans-6.5,41.5,Peter Morelli,3,1
+2268,2011-12-18,New York Jets,0,13,0,6,Philadelphia Eagles,14,14,10,7,Lincoln Financial Field,4:16pm,grass ,35 degrees relative humidity 41% wind 9 mph wind chill 28,Philadelphia Eagles-3.0,44.0,Clete Blakeman,4,4
+2269,2011-12-18,Seattle Seahawks,7,0,17,14,Chicago Bears,7,7,0,0,Soldier Field (II),12:03pm,grass ,39 degrees relative humidity 65% wind 5 mph,Chicago Bears-3.5,35.0,Ed Hochuli,1,5
+2270,2011-12-18,Green Bay Packers,0,0,7,7,Kansas City Chiefs,6,0,3,10,Arrowhead Stadium,12:03pm,grass ,50 degrees relative humidity 58% wind 1 mph,Green Bay Packers-11.5,46.0,Gene Steratore,0,0
+2271,2011-12-18,Detroit Lions,7,7,0,14,Oakland Raiders,7,10,0,10,O.co Coliseum,1:05pm,grass ,50 degrees relative humidity 84% wind 1 mph,Detroit Lions-1.5,47.5,Bill Leavy,1,1
+2272,2011-12-19,Pittsburgh Steelers,0,0,3,0,San Francisco 49ers,3,3,7,7,Candlestick Park,6:00pm,grass ,51 degrees relative humidity 74% wind 1 mph,San Francisco 49ers-3.0,37.0,Walt Coleman,4,0
+2273,2011-12-22,Houston Texans,10,0,3,3,Indianapolis Colts,3,3,3,10,Lucas Oil Stadium (retractable roof),8:29pm,fieldturf ,42 degrees wind 2 mph,Houston Texans-7.0,40.5,Jerome Boger,1,1
+2274,2011-12-24,Oakland Raiders,3,0,7,3,16,Kansas City Chiefs(6-9-0),3,0,3,Arrowhead Stadium,12:03pm,grass ,38 degrees relative humidity 57% wind 7 mph,Kansas City Chiefs-3.0,43.0,Mike Carey,2,2
+2275,2011-12-24,Jacksonville Jaguars,7,3,0,7,Tennessee Titans,10,7,3,3,LP Field,12:02pm,grass ,44 degrees relative humidity 60% wind 2 mph,Tennessee Titans-8.5,38.5,Gene Steratore,1,3
+2276,2011-12-24,Arizona Cardinals,0,0,0,16,Cincinnati Bengals,10,10,3,0,Paul Brown Stadium,1:02pm,fieldturf ,38 degrees relative humidity 63% wind 8 mph,Cincinnati Bengals-4.0,41.0,Terry McAulay,3,2
+2277,2011-12-24,St. Louis Rams,0,0,0,0,Pittsburgh Steelers,3,7,3,14,Heinz Field,1:02pm,grass ,36 degrees relative humidity 67% wind 4 mph,Pittsburgh Steelers-10.0,34.0,Clete Blakeman,0,1
+2278,2011-12-24,Denver Broncos,7,0,7,0,Buffalo Bills,0,17,6,17,Ralph Wilson Stadium,1:12pm,a_turf,30 degrees relative humidity 42% wind 2 mph,Denver Broncos-3.0,43.5,Walt Anderson,3,0
+2279,2011-12-24,Miami Dolphins,3,14,0,7,New England Patriots,0,0,17,10,Gillette Stadium,1:02pm,fieldturf ,New England Patriots-7.5,49.5(over),Alberto Riveron,2,0
+2280,2011-12-24,Cleveland Browns,0,0,7,7,Baltimore Ravens,10,7,3,0,M&T Bank Stadium,1:03pm,sportturf,44 degrees relative humidity 32% wind 1 mph,Baltimore Ravens-11.0,38.0,James Coleman,1,1
+2281,2011-12-24,San Francisco 49ers,0,3,10,6,Seattle Seahawks,7,3,0,7,CenturyLink Field,1:16pm,fieldturf ,San Francisco 49ers-2.5,37.0(under),Ron Winter,0,1
+2282,2011-12-24,New York Giants,0,10,7,12,New York Jets,7,0,0,7,MetLife Stadium,1:03pm,fieldturf ,New York Jets-3.0,46.0(under),Peter Morelli,1,3
+2283,2011-12-24,San Diego Chargers,0,0,10,0,Detroit Lions,10,14,7,7,Ford Field (dome),4:05pm,fieldturf ,San Diego Chargers-1.0,53.0(under),Ed Hochuli,2,0
+2284,2011-12-24,Minnesota Vikings,3,7,13,10,Washington Redskins,0,10,10,6,FedEx Field,1:05pm,grass ,45 degrees relative humidity 36% wind 9 mph,Washington Redskins-6.0,43.0,Tony Corrente,0,2
+2285,2011-12-24,Tampa Bay Buccaneers,0,10,0,6,Carolina Panthers,10,10,21,7,Bank of America Stadium,1:04pm,grass ,51 degrees relative humidity 57% wind 9 mph,Carolina Panthers-7.5,48.0,Carl Cheffers,4,0
+2286,2011-12-24,Philadelphia Eagles,7,7,3,3,Dallas Cowboys,0,0,0,7,Cowboys Stadium (dome),3:15pm,matrixturf,Philadelphia Eagles-2.5,50.0(under),Bill Leavy,1,0
+2287,2011-12-25,Chicago Bears,0,3,7,11,Green Bay Packers,7,7,14,7,Lambeau Field,7:30pm,grass ,37 degrees relative humidity 64% wind 1 mph wind chill 29,Green Bay Packers-13.0,42.0,John Parry,2,0
+2288,2011-12-26,Atlanta Falcons,10,0,3,3,New Orleans Saints,7,14,10,14,Louisiana Superdome (dome),7:40pm,sportturf,67 degrees wind 5 mph,New Orleans Saints-7.0,52.5,Jeff Triplette,1,2
+2289,2012-01-01,Baltimore Ravens,10,7,0,7,Cincinnati Bengals,3,0,7,6,Paul Brown Stadium,4:16pm,fieldturf ,42 degrees relative humidity 68% wind 1 mph,Baltimore Ravens-2.5,38.0,Tony Corrente,0,1
+2290,2012-01-01,Tampa Bay Buccaneers,0,7,11,6,Atlanta Falcons,21,21,0,3,Georgia Dome (dome),4:17pm,fieldturf ,Atlanta Falcons-9.5,45.0(over),Scott Green,4,2
+2291,2012-01-01,Seattle Seahawks,0,3,7,10,20,Arizona Cardinals(8-8-0),7,3,7,University of Phoenix Stadium (retractable roof),2:15pm,grass ,Arizona Cardinals-2.5,40.5(over),Gene Steratore,1,2
+2292,2012-01-01,Pittsburgh Steelers,0,3,10,0,Cleveland Browns,0,6,3,0,Cleveland Browns Stadium,4:16pm,grass ,49 degrees relative humidity 66% wind 2 mph,Pittsburgh Steelers-7.0,33.0,Alberto Riveron,2,1
+2293,2012-01-01,Detroit Lions,9,10,15,7,Green Bay Packers,10,14,7,14,Lambeau Field,12:02pm,grass ,31 degrees relative humidity 78% wind 2 mph wind chill 19,Detroit Lions-6.5,42.0,Walt Coleman,4,2
+2294,2012-01-01,Dallas Cowboys,0,0,7,7,New York Giants,7,14,0,10,MetLife Stadium,8:31pm,fieldturf ,48 degrees relative humidity 83% wind 7 mph,New York Giants-3.0,47.5,Walt Anderson,2,0
+2295,2012-01-01,Carolina Panthers,7,10,0,0,New Orleans Saints,14,10,14,7,Louisiana Superdome (dome),12:03pm,sportturf,68 degrees wind 8 mph,New Orleans Saints-7.0,55.0,Ed Hochuli,2,1
+2296,2012-01-01,Washington Redskins,0,0,7,3,Philadelphia Eagles,3,7,3,21,Lincoln Financial Field,1:02pm,grass ,53 degrees relative humidity 58% wind 1 mph,Philadelphia Eagles-7.0,44.5,Carl Cheffers,1,2
+2297,2012-01-01,New York Jets,7,3,0,7,Miami Dolphins,3,3,0,13,Sun Life Stadium,1:02pm,grass ,78 degrees relative humidity 44% wind 8 mph,Miami Dolphins-2.0,39.0,Jerome Boger,3,2
+2298,2012-01-01,Chicago Bears,0,14,0,3,Minnesota Vikings,10,3,0,0,Mall of America Field (dome),12:05pm,sportturf,Minnesota ,42.0(under),Mike Carey,3,3
+2299,2012-01-01,San Francisco 49ers,7,13,7,7,St. Louis Rams,7,0,3,17,Edward Jones Dome (dome),12:00pm,astroplay,San Francisco 49ers-12.5,34.5(over),Jeff Triplette,0,2
+2300,2012-01-01,Buffalo Bills,21,0,0,0,New England Patriots,0,14,14,21,Gillette Stadium,1:02pm,fieldturf ,New England Patriots-10.0,50.0(over),Bill Leavy,4,1
+2301,2012-01-01,Kansas City Chiefs,7,0,0,0,Denver Broncos,0,0,3,0,Sports Authority Field at Mile,2:16pm,grass ,35 degrees relative humidity 46% wind 6 mph wind chill 30,Denver Broncos-2.0,37.5,Peter Morelli,1,2
+2302,2012-01-01,Tennessee Titans,0,13,3,7,Houston Texans,7,3,3,9,Reliant Stadium (retractable roof),12:02pm,grass ,63 degrees wind 1 mph,Tennessee Titans-2.0,38.5,Ron Winter,1,1
+2303,2012-01-01,San Diego Chargers,7,17,7,7,Oakland Raiders,7,6,6,7,O.co Coliseum,1:15pm,grass ,56 degrees relative humidity 63% wind 8 mph,Oakland Raiders-3.0,48.5,Clete Blakeman,1,1
+2304,2012-01-01,Indianapolis Colts,0,3,3,7,Jacksonville Jaguars,7,3,6,3,EverBank Field,1:03pm,grass ,Jacksonville Jaguars-3.0,37.0(under),John Parry,3,1
