@@ -310,8 +310,46 @@ class Welcome extends CI_Controller {
 				
 				
 				
+				switch ($_POST['fromwhen'])
+				{
+						case '1': 
+							$time = strtotime("-1 year", time());
+							$date = date("Y", $time);
+							$fromwhen = " AND DATE > '".$date."-08'";
+							break;
+						case '2': 
+							$time = strtotime("-2 year", time());
+							$date = date("Y", $time);
+							$fromwhen = " AND DATE > '".$date."-08'";
+							break;
+						case '3': 
+							$time = strtotime("-3 year", time());
+							$date = date("Y", $time);
+							$fromwhen = " AND DATE > '".$date."-08'";
+							break;
+						case '4': 
+							$time = strtotime("-4 year", time());
+							$date = date("Y", $time);
+							$fromwhen = " AND DATE > '".$date."-08'";
+							break;
+						case '5': 
+							$time = strtotime("-5 year", time());
+							$date = date("Y", $time);
+							$fromwhen = " AND DATE > '".$date."-08'";
+							break;
+
+						default:
+						$fromwhen = " AND (game.id like '%%')";
+						break;
+
+
+				}
+
+
+
+				
 				$query = "SELECT game.ID, date, hometeam, awayteam, home1stqscore,home2ndqscore,home3rdqscore,home4thqscore,homeovertimescore,away1stqscore,away2ndqscore,away3rdqscore,away4thqscore,awayovertimescore, concat_WS(' ', first_name, last_name) as fullname ".$temp. " from game_has_players left join 
-					game on game.id = game_has_players.game_id LEFT JOIN players on game_has_players.player_id = players.id".$where.$person. " ORDER BY date desc";
+					game on game.id = game_has_players.game_id LEFT JOIN players on game_has_players.player_id = players.id".$where.$person.$fromwhen. " ORDER BY date desc";
 				
 				
 
@@ -798,8 +836,56 @@ class Welcome extends CI_Controller {
 					}
 					else
 						$table5 = "*";
+
+
+
+
+
+
+
+					switch ($_POST['fromwhen'])
+				{
+						case '1': 
+							$time = strtotime("-1 year", time());
+							$date = date("Y", $time);
+							$fromwhen = " AND DATE > '".$date."-08'";
+							break;
+						case '2': 
+							$time = strtotime("-2 year", time());
+							$date = date("Y", $time);
+							$fromwhen = " AND DATE > '".$date."-08'";
+							break;
+						case '3': 
+							$time = strtotime("-3 year", time());
+							$date = date("Y", $time);
+							$fromwhen = " AND DATE > '".$date."-08'";
+							break;
+						case '4': 
+							$time = strtotime("-4 year", time());
+							$date = date("Y", $time);
+							$fromwhen = " AND DATE > '".$date."-08'";
+							break;
+						case '5': 
+							$time = strtotime("-5 year", time());
+							$date = date("Y", $time);
+							$fromwhen = " AND DATE > '".$date."-08'";
+							break;
+
+						default:
+						$fromwhen = "@";
+						break;
+
+
+				}
+
+
+
+
+
+
+
 		
-		$selectteam = "SELECT game.id,date,time,hometeam,minusteamspread,minusteam,plusteam, minusteamcover,plusteamcover,ouresult, overunder,awayteam,home1stqscore,home2ndqscore,home3rdqscore,home4thqscore,homeovertimescore,away1stqscore,away2ndqscore,away3rdqscore,away4thqscore,awayovertimescore FROM game WHERE " . $whatteam . $ifplusspread . $ifminusspread . $where . $overunder . $run9 . $run10 . $run11 . $run12 . $allspread . " ORDER BY date desc";
+		$selectteam = "SELECT game.id,date,time,hometeam,minusteamspread,minusteam,plusteam, minusteamcover,plusteamcover,ouresult, overunder,awayteam,home1stqscore,home2ndqscore,home3rdqscore,home4thqscore,homeovertimescore,away1stqscore,away2ndqscore,away3rdqscore,away4thqscore,awayovertimescore FROM game WHERE " . $whatteam . $ifplusspread . $ifminusspread . $where . $overunder . $run9 . $run10 . $run11 . $run12 . $allspread . $fromwhen . " ORDER BY date desc";
 
 		$selectteam = str_replace("@", "", $selectteam);
 

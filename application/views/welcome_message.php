@@ -596,7 +596,18 @@
 								
 							</div>
 						
-						
+							<p> Results from past				
+										
+										<select id ='fromwhen' name ='fromwhen'>
+											<option value ='all'>All (10 years)</option>
+											<option value = '1'>1 year</option>
+											<option value = '2'>2 years</option>
+											<option value = '3'>3 years</option>
+											<option value = '4'>4 years</option>
+											<option value = '5'>5 years</option>					
+										</select>
+														
+									</p>
 						
 							<input type ='submit' value ='Grab that Stat!'>
 					
@@ -885,7 +896,18 @@
 							</div>
 						
 						
-						
+								<p> Show results from past				
+										
+										<select id ='fromwhen' name ='fromwhen'>
+											<option value ='all'>All (10 years)</option>
+											<option value = '1'>1 year</option>
+											<option value = '2'>2 years</option>
+											<option value = '3'>3 years</option>
+											<option value = '4'>4 years</option>
+											<option value = '5'>5 years</option>					
+										</select>
+														
+									</p>
 							<input type ='submit' value ='Grab that Stat!'>
 					
 						</form>	
